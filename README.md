@@ -13,5 +13,4 @@ Please cite our papers if you find reference value of the code in current work.
 While there exists any problem, please do not hestitate to connect me via email.
 
 Email: mew_cheng@outlook.com
-       mew.cheng@gmail.com
-
+  
