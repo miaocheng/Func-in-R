@@ -1,8 +1,11 @@
 # Some-Funtions-in-R
 
 
-Please visit my new Homepage for details.
+Some essential calculation functions implemented in R Language. 
+
+The released codes is for academic use only. For any other purpuse, please obtain the permission of author.
 
 
-Email: mew_cheng@outlook.com
+
+Email: miao_cheng@outlook.com
   
